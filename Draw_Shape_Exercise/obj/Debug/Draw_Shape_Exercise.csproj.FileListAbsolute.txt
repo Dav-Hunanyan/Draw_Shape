@@ -1,0 +1,72 @@
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Draw_Shape_Exercise.exe.config
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Draw_Shape_Exercise.exe
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Draw_Shape_Exercise.pdb
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\obj\Debug\Draw_Shape_Exercise.csproj.AssemblyReference.cache
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\obj\Debug\Draw_Shape_Exercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\obj\Debug\Draw_Shape_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\obj\Debug\Draw_Shape_Exercise.exe
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\obj\Debug\Draw_Shape_Exercise.pdb
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Buffers.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Collections.Immutable.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Memory.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.Foundation.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.Composition.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.Xaml.dll
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Buffers.xml
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Collections.Immutable.xml
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Memory.xml
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\huanr\OneDrive\Рабочий стол\Draw_Shape_Exercise\Draw_Shape_Exercise\obj\Debug\Draw_Shape_Exercise.csproj.CopyComplete
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\obj\Debug\Draw_Shape_Exercise.csproj.AssemblyReference.cache
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\obj\Debug\Draw_Shape_Exercise.csproj.SuggestedBindingRedirects.cache
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\obj\Debug\Draw_Shape_Exercise.csproj.CoreCompileInputs.cache
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\obj\Debug\Draw_Shape_Exercise.exe
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\obj\Debug\Draw_Shape_Exercise.pdb
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Draw_Shape_Exercise.exe.config
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Draw_Shape_Exercise.exe
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Draw_Shape_Exercise.pdb
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Buffers.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Collections.Immutable.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Memory.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Numerics.Vectors.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.Diagnostics.Eventing.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.Foundation.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.Foundation.Logging.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.Composition.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.Dispatching.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.FluentTheme.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.FluentTheme.v1.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.FluentTheme.v2.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.Toolkit.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.Xaml.dll
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Buffers.xml
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Collections.Immutable.xml
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Memory.xml
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Numerics.Vectors.xml
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.Diagnostics.Eventing.pdb
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.FluentTheme.pdb
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\bin\Debug\Uno.UI.Toolkit.pdb
+G:\Dav\Draw_Shape_Exercise\Draw_Shape_Exercise\obj\Debug\Draw_Shape_Exercise.csproj.CopyComplete
